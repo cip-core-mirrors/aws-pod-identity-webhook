@@ -1,6 +1,6 @@
 # CIP Amazon EKS Pod Identity Webhook
 
-[Version: v0.0.0]
+[Version: v0.2.1]
 
 
 ## What is it?
